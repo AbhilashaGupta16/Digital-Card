@@ -3,7 +3,9 @@ h1{
   font-size: 23px;
 } 
 
-
+body{
+  margin-top: 80px;
+}
 
 /* Flipping A Card  */
 .flip-card {
